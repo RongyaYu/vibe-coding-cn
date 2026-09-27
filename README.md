@@ -1,3 +1,14 @@
+想学 Vibe Coding，GitHub 上这套中文教程已经 1.5 万+ Star 了。
+
+vibe-coding-cn 不是简单整理几个 Prompt，而是从零开始教你怎么用 Codex、Claude Code、Cursor、Gemini CLI 把一个想法真正做成产品。 
+
+从环境配置、需求拆解，到 Prompt、Skill、Context、Workflow、质量门禁、Git、测试与复盘，基本把 AI 编程完整流程讲了一遍。
+
+github.com/tradecatlabs/v…
+
+
+
+
 <!--
 -------------------------------------------------------------------------------
   项目头部区域 (HEADER)
